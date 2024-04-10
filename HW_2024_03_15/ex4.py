@@ -40,3 +40,7 @@ if list_of_keys == []:
 # ER_CANT_OPEN_FILE
 
 # ! value error !
+
+
+# комментарий преподавателя:
+# всё верно!
