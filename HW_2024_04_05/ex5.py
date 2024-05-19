@@ -18,3 +18,5 @@ with open('output.txt', 'w', encoding='utf-8') as out_file:
 # 9)djdddddddddddddddddddddddddddddddd
 # 10)3249835438594390583490583490853490582349058340
 # 11)sdfsjkldflksdjaflkjsdflkjsdlfkjsdlfjsldfsldkfjlsdkfjls
+
+# всё верно

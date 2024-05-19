@@ -32,3 +32,5 @@ with open('random.txt', 'w', encoding='utf-8') as file:
 # 452
 # 659
 # 205
+
+# всё верно
