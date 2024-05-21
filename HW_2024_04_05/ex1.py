@@ -6,3 +6,5 @@ with open('text.txt', 'r', encoding='utf-8') as text:
 ##########################################    
     
 # .enil hcae fo rettel tsrif eht tuo tnirp dna txt.egassem_terces daeR
+
+# всё верно
